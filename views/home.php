@@ -1,0 +1,1 @@
+<?php echo '<h1>Bienvenido al Punto de Venta Cafetería</h1>'; ?>
